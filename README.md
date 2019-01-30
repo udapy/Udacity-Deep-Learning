@@ -30,7 +30,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 * [Image classification](https://github.com/udapy/Udacity-Deep-Learning/tree/master/dog-project): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 * [Tv Script Generation](https://github.com/udapy/Udacity-Deep-Learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Face Generation](https://github.com/udapy/Udacity-Deep-Learning/tree/master/face-generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
-
+* [Deep RL Quadcopter Controller](https://github.com/udapy/Udacity-Deep-Learning/tree/master/teach-quadcopter-to-fly): Udesign an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice!.
 
 ## Dependencies
 
